@@ -6,3 +6,5 @@ def somthing(i) {
     return Primes.isPrime(i)
 }
 
+return this
+
